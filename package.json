@@ -1,0 +1,33 @@
+{
+  "name": "framer-syntax",
+  "displayName": "Framer Syntax 2.0",
+  "description": "A color theme inspired by the Framer Editor",
+  "version": "2.0.0",
+  "publisher": "StevenPhan",
+  "repository": "https://github.com/ptviet/FramerSyntax-VScodeTheme",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#09F",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Framer Syntax 2.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Framer Syntax-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "2c9f729c-613d-4662-9a59-f080cc8f0f9b",
+    "publisherId": "9231e334-2c6e-4398-9bd0-594d9ed8cb2d",
+    "publisherDisplayName": "Steven Phan"
+  }
+}
