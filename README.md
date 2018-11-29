@@ -7,9 +7,7 @@
 
 ## Introduction
 
-Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS/SCSS, JavaScript, TypeScript, and JSON, giving you everything you need to build amazing products for the Web.
-
-It has Bracket Pair Colorizer 2 integrated.
+Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS/SCSS, JavaScript, TypeScript, and JSON, giving you everything you need to build amazing products for the Web. It has Bracket Pair Colorizer 2 integrated.
 
 ## Installation
 
