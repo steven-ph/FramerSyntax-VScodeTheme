@@ -666,8 +666,7 @@
         "punctuation.definition.string.begin.json"
       ],
       "settings": {
-        // "foreground": "#a8f"
-        "foreground": "#8BD49C"
+        "foreground": "#8df"
       }
     },
     // PHP -----------------------------------------------------------------------
