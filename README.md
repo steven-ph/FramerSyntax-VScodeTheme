@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="128" height="128"/>
+  <img src="https://raw.githubusercontent.com/ptviet/FramerSyntax-VScodeTheme/master/logo.png" width="128" height="128"/>
 </p>
 <h1 align="center">Framer Syntax 2</h1>
 
-<img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/vsc.png" />
+<img src="https://raw.githubusercontent.com/ptviet/FramerSyntax-VScodeTheme/master/vsc.png" />
 
 ## Introduction
 
-Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS/SCSS, JavaScript, TypeScript, and JSON, giving you everything you need to build amazing products for the Web. It has Bracket Pair Colorizer 2 integrated.
+Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS/SCSS, JavaScript, TypeScript, and JSON, giving you everything you need to build amazing products for the Web.
+
+It has Bracket Pair Colorizer 2 integrated.
 
 ## Installation
 
